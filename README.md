@@ -130,4 +130,4 @@ No internet access on the server
 -  It teaches critical thinking when diagnosing real-world network problems.
 -  Understanding wired and wireless integration prepares you for enterprise network management.
 - This lab is an excellent foundation for advanced networking and security topics.
-- # networksimulation
+
